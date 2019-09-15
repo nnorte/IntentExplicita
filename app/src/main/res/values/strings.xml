@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Intent</string>
+    <string name="titulo">Calculadora de idade</string>
+    <string name="nome">Nome</string>
+    <string name="anoNascimento">Ano de nascimento</string>
+    <string name="btcalcular">Calculadora</string>
+    <string name="intent_exp">Ver na tela B</string>
+</resources>
